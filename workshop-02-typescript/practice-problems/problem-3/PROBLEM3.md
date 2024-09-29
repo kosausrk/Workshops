@@ -1,12 +1,15 @@
 # Practice Problem 3: Use an Interface for User Information
-## Setup:
-Right-click on your `problem-3/index.html` file in VSCode and select **Open with Live Server**.  
+## Topic: Interfaces
+[(Interface Lecture Video)](https://www.youtube.com/watch?v=BysWJvdPVJc&list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN&index=9&ab_channel=NetNinja) (11 mins)
 
 ## Instructions
 Refer to the [JavaScript Cheat Sheet](../../cheatSheet.js) for reminders on certain concepts.
 
-**Compiling your code:** Run `tsc path/to/typescript/file` in your terminal to compile to a `.js` file.
+**Compiling your code:** Run `node path/to/typescript/file` in your terminal to execute your code in the terminal.
 
+E.g. if my terminal is in `~/SSE/Workshops`, I will run `node workshop-02-typescript/practice-problems/problem-3/main.ts`
+
+In `main.ts` (TypeScript file):
 1. Copy and paste the code from last problem into this file, then comment the code out from the last problem.
 2. Create an interface User that has the following properties:
     name
